@@ -1,8 +1,8 @@
-# Github Data Project: Meat Consumption and Human Development
+# Data Project: Meat Consumption and Human Development
 
 ## Introduction
 
-This project aims to analyze the relationship between meat consumption and human development for various countries. We have collected data on meat consumption and Human Development Index (HDI) for multiple countries and years. The dataset includes information on different types of meat consumed (beef, poultry, and pork) and various aspects of human development (HDI index, life expectancy, mean schooling years, and income per capita). By exploring these datasets, we hope to uncover patterns and trends that may shed light on the potential connections between meat consumption and human development indicators.
+This project aims to analyze the relationship between meat consumption and human development for various countries. We have collected data on meat consumption and Human Development Index (HDI) for multiple countries and years. The dataset includes information on different types of meat consumed (beef, poultry, and pork) and various aspects of human development (HDI index, life expectancy, mean schooling years, and income per capita). By exploring these datasets, we hope to uncover patterns and trends that may shed light on the potential connections between meat consumption and human development indicators. PostgreSQL, Python, and PowerBI were used.
 
 
 
