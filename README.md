@@ -57,3 +57,7 @@ Further analysis revealed the most and least meat-consuming countries, as well a
 The project also explored the highest income per capita countries by meat preference, unveiling potential connections between income levels and meat consumption choices. It is worth noting that these findings are not definitive and may warrant further investigation.
 
 Overall, the visualizations created using Power BI allowed us to gain a better understanding of the data and facilitated the communication of our findings. While the correlation between meat consumption and human development indicators is weak, the project sheds light on the complex interplay of factors that influence both meat consumption and human development across countries. Future research could focus on exploring additional factors, such as environmental and health impacts, to develop a more comprehensive understanding of the relationship between meat consumption and human development.
+
+<br>
+
+D. Mellion(2023)
