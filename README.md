@@ -4,15 +4,17 @@
 
 This project aims to analyze the relationship between meat consumption and human development for various countries. We have collected data on meat consumption and Human Development Index (HDI) for multiple countries and years. The dataset includes information on different types of meat consumed (beef, poultry, and pork) and various aspects of human development (HDI index, life expectancy, mean schooling years, and income per capita). By exploring these datasets, we hope to uncover patterns and trends that may shed light on the potential connections between meat consumption and human development indicators.
 
+
+
+## Data Processing
+
+The data for this project is stored in two main tables: meatconsumption and hdi_data. The meatconsumption table contains information about meat consumption in different countries, while the hdi_data table contains information on the human development aspects of the same countries. These tables are joined based on the country code to create a combined table meat_consumption_and_dev. This combined table allows for easier analysis and visualization of the relationships between variables.
+
 <br>
 
 ![table schema](https://github.com/mellion/Meatconsumption_humandev/blob/main/table_two.png?raw=true)
 
 <br>
-
-## Data Processing
-
-The data for this project is stored in two main tables: meatconsumption and hdi_data. The meatconsumption table contains information about meat consumption in different countries, while the hdi_data table contains information on the human development aspects of the same countries. These tables are joined based on the country code to create a combined table meat_consumption_and_dev. This combined table allows for easier analysis and visualization of the relationships between variables.
 
 ## Data Cleaning
 
@@ -47,6 +49,12 @@ A stacked bar chart showing the most popular meat types by country, allowing for
 A scatterplot comparing HDI index and meat consumption, illustrating the weak positive correlation between the two variables.
 A table visual displaying the most consumed meat by countries with the lowest HDI, highlighting potential differences in meat consumption patterns among countries with varying levels of human development.
 A table visual showing the highest income per capita countries by meat preference, revealing potential links between income levels and meat consumption choices.
+
+<br>
+
+![Dashboard](https://github.com/mellion/Meatconsumption_humandev/blob/main/dashboard_picture.png?raw=true)
+
+<br>
 
 ## Conclusion
 
