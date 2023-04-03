@@ -3,6 +3,12 @@
 ## Introduction
 This project aims to analyze the relationship between meat consumption and human development for various countries. We have collected data on meat consumption and Human Development Index (HDI) for multiple countries and years. The dataset includes information on different types of meat consumed (beef, poultry, and pork) and various aspects of human development (HDI index, life expectancy, mean schooling years, and income per capita).
 
+<br>
+
+![table schema](https://github.com/mellion/Meatconsumption_humandev/blob/main/table_two.png?raw=true)
+
+<br>
+
 ## Data Cleaning
 The data for this project is stored in two main tables: meatconsumption and hdi_data. The meatconsumption table contains information about meat consumption in different countries, while the hdi_data table contains information on the human development aspects of the same countries. These tables are joined based on the country code to create a combined table meat_consumption_and_dev.
 
