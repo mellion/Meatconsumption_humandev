@@ -13,7 +13,7 @@ Link to HDI dataset:
 
 <br>
 
-Link to Meat Consumtpion dataset:
+Link to Meat Consumption dataset:
 [Meat Consumption Dataset on Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/meat-consumption)
 
 <br>
